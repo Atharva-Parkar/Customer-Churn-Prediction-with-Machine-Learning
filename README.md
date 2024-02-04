@@ -1,4 +1,4 @@
-# Precision-Driven Customer Churn Analysis
+# Precision-Centric Customer Churn Prediction
 
 ## Unveiling Patterns and Insights in Customer Retention
 
