@@ -10,7 +10,28 @@ Embark on a journey through the intricacies of customer churn analysis with a fo
 * Explore the Receiver Operating Characteristic (ROC) curve, visualizing the trade-off between true positive rate and false positive rate, complemented by the AUC-ROC score for a holistic evaluation of model efficacy.
 
 ## How to work on the project?
-** Coming soon!**
+
+### Step 1: Download the Dataset
+Download the <a href="https://github.com/Atharva-Parkar/Customer-Churn-Prediction-with-Machine-Learning/blob/main/Customer_Churn.csv">Customer Churn Dataset</a> from the repository.
+
+### Step 2: Upload the Dataset to Google Drive
+Upload the downloaded dataset to your Google Drive. This ensures convenient access to the dataset during the project.
+
+### Step 3: Open the Jupyter Notebook
+Open the provided <a href="https://github.com/Atharva-Parkar/Customer-Churn-Prediction-with-Machine-Learning/blob/main/Customer_Churn_Prediction.ipynb">Jupyter Notebook</a> on your local machine or in a Google Colab environment.
+ 
+### Step 4: Configure Google Drive Connection
+If using Google Colab, configure Google Drive connection by following the instructions in the notebook. This allows access to the dataset stored in Google Drive.
+
+### Step 5: Run the Jupyter Notebook
+Execute the notebook cells sequentially to perform tasks such as loading the dataset, preprocessing data, training the CatBoost model, and evaluating model performance.
+
+### Step 6: Explore Model Insights
+Analyze accuracy, confusion matrix, classification report, and AUC-ROC curve visualizations within the notebook to gain insights into customer churn predictions.
+
+### Step 7: Customize and Experiment
+Modify the notebook to experiment with different features, models, or preprocessing techniques.
+Iterate on the project to enhance its capabilities and tailor it to your specific dataset or business requirements.
 
 ## Find a bug?
 
